@@ -48,3 +48,33 @@ Efter att miljön är uppsatt, behöver du bara göra steg **två (2)** varje g�
 ## Labbmiljö i Azure
 * Resursgrupp: ai-tokyo-2024
 
+
+## Bra länkar
+
+### Microsoft OpenAI
+* [Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azure AI services](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
+
+### LangChain cheatsheet
+![lc-cheatsheet.png](images/lc-cheatsheet.png)
+* https://python.langchain.com/docs/how_to/lcel_cheatsheet/
+
+
+### LangChain
+* [How-to guides](https://python.langchain.com/docs/how_to/)
+* [Tutorials](https://python.langchain.com/docs/tutorials/)
+* Cookbook: [langchain/cookbook at master · langchain-ai/langchain](https://github.com/langchain-ai/langchain/tree/master/cookbook)
+* Prompt hub: https://smith.langchain.com/hub
+* Project templates (trasig?): https://templates.langchain.com/trending
+
+### LangGraph
+* Exempel / cookbook: https://github.com/langchain-ai/langgraph/tree/main/examples
+
+### Övrigt
+**Nir Diamante**
+* https://github.com/NirDiamant/GenAI_Agents
+* https://github.com/NirDiamant/RAG_Techniques
+* https://github.com/NirDiamant/Prompt_Engineering
+
+**5_Levels_Of_Text_Splitting**
+* [RetrievalTutorials/tutorials/LevelsOfTextSplitting/5_Levels_Of_Text_Splitting.ipynb at main · FullStackRetrieval-com/RetrievalTutorials](https://github.com/FullStackRetrieval-com/RetrievalTutorials/blob/main/tutorials/LevelsOfTextSplitting/5_Levels_Of_Text_Splitting.ipynb)
+

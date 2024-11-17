@@ -23,14 +23,22 @@ tenacity~=8.5
 tiktoken~=0.8.0
 termcolor~=2.5
 chromadb~=0.5.18
+ratelimit~=2.2
+html2text~=2024.2
 
 langchain~=0.3.7
 langchain_core~=0.3.15
 langchain_openai~=0.2.6
 langchain_community~=0.3.5
+langchain-huggingface~=0.1.2
 langchain-chroma~=0.1.4
 langchainhub~=0.1.21
 langserve~=0.3.0
 langgraph~=0.2.46
 langgraph-checkpoint-postgres~=2.0
 langchain_experimental~=0.3.3
+
+azure-common~=1.1
+azure-core~=1.31
+azure-identity~=1.16
+azure-search-documents~=11.4

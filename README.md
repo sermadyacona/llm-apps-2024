@@ -11,6 +11,10 @@ Finns här: [AGENDA.md](AGENDA.md)
 ## Sätt upp din utvecklingsmiljö
 
 
+### GitHub Codespaces
+* Skapa först en Fork av detta repository (mest för om man vill kunna spara/committa ändringar)
+* Klicka sedan på "Code" och "Create codespace on main"
+
 ### Juptyer Notebooks i Google Colab
 
 #### Sätt upp API-nycklar mm
@@ -23,7 +27,7 @@ Dessa kan du sedan använda i dina notebooks på detta sätt:
 
 
 #### Notebooks för kursen...
-...finns på [**Google Drive**](https://drive.google.com/drive/folders/1CaWt7ITCTe8JzB1erMdDJW36kBpNjLyt?usp=sharing)
+...finns på [**Google Drive**](https://drive.google.com/file/d/1Rd_Ri_YRft7ojLBXet5temLtqzChamiX/view?usp=sharing)
 
 
 

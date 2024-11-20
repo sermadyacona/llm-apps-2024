@@ -72,6 +72,8 @@ Efter att miljön är uppsatt, behöver du bara göra steg **två (2)** varje g�
 
 ### LangGraph
 * Exempel / cookbook: https://github.com/langchain-ai/langgraph/tree/main/examples
+* Agentic RAG (LangGraph Blog): https://blog.langchain.dev/agentic-rag-with-langgraph/
+* Agentic RAG (LangGraph Tutorial): https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_agentic_rag/
 
 ### Övrigt
 **Nir Diamante**

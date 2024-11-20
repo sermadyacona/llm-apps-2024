@@ -71,9 +71,16 @@ Efter att miljön är uppsatt, behöver du bara göra steg **två (2)** varje g�
 * Project templates (trasig?): https://templates.langchain.com/trending
 
 ### LangGraph
+* Glossary / begrepp - https://langchain-ai.github.io/langgraph/concepts/low_level/
+* Tutorials: https://langchain-ai.github.io/langgraph/tutorials/
+* How-to guides: https://langchain-ai.github.io/langgraph/how-tos/
 * Exempel / cookbook: https://github.com/langchain-ai/langgraph/tree/main/examples
 * Agentic RAG (LangGraph Blog): https://blog.langchain.dev/agentic-rag-with-langgraph/
 * Agentic RAG (LangGraph Tutorial): https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_agentic_rag/
+
+### Köra lokala modeller
+* Ollama - https://ollama.com
+* LM Studio - https://lmstudio.ai 
 
 ### Övrigt
 **Nir Diamante**
